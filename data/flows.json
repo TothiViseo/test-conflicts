@@ -26,7 +26,7 @@
         "speech": true,
         "speechText": "",
         "sendType": "text",
-        "text": "je suis super contente",
+        "text": "je suis très contente",
         "random": false,
         "media": "",
         "mediaType": "str",
@@ -70,7 +70,7 @@
         "shcardbuttonType": "str",
         "shcardurl": "",
         "shcardurlType": "str",
-        "x": 320,
+        "x": 310,
         "y": 200,
         "wires": [
             []
