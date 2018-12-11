@@ -5,5 +5,19 @@
         "label": "Flow 1",
         "disabled": false,
         "info": ""
+    },
+    {
+        "id": "5589de2c.c52a6",
+        "type": "debug",
+        "z": "b48cde81.abc31",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 580,
+        "y": 160,
+        "wires": []
     }
 ]
