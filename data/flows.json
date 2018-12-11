@@ -7,21 +7,37 @@
         "info": ""
     },
     {
+        "id": "5589de2c.c52a6",
+        "type": "debug",
+        "z": "b48cde81.abc31",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 580,
+        "y": 160,
+        "wires": []
+    },
+    {
         "id": "b322bd87.9d25d",
         "type": "inject",
         "z": "b48cde81.abc31",
         "name": "",
         "topic": "",
-        "payload": "",
-        "payloadType": "date",
+        "payload": "true",
+        "payloadType": "bool",
         "repeat": "",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
-        "x": 340,
+        "x": 330,
         "y": 160,
         "wires": [
-            []
+            [
+                "5589de2c.c52a6"
+            ]
         ]
     }
 ]
