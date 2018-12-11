@@ -7,12 +7,27 @@
         "info": ""
     },
     {
+
+        "id": "5589de2c.c52a6",
+        "type": "debug",
+        "z": "b48cde81.abc31",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "x": 560,
+        "y": 160,
+        "wires": []
+    },
+    {
         "id": "b322bd87.9d25d",
         "type": "inject",
         "z": "b48cde81.abc31",
         "name": "",
         "topic": "",
-        "payload": "true",
+        "payload": "false",
         "payloadType": "bool",
         "repeat": "",
         "crontab": "",
