@@ -43,7 +43,7 @@
         "type": "function",
         "z": "b48cde81.abc31",
         "name": "",
-        "func": "//test que je ne garde pas\nreturn msg;",
+        "func": "//test resolve conflict\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "x": 460,
