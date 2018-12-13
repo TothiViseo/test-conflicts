@@ -7,7 +7,6 @@
         "info": ""
     },
     {
-
         "id": "5589de2c.c52a6",
         "type": "debug",
         "z": "b48cde81.abc31",
@@ -35,6 +34,20 @@
         "onceDelay": 0.1,
         "x": 330,
         "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "796258c4.9fc1f8",
+        "type": "function",
+        "z": "b48cde81.abc31",
+        "name": "",
+        "func": "//test\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 460,
+        "y": 240,
         "wires": [
             []
         ]
