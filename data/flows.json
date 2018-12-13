@@ -43,7 +43,7 @@
         "type": "function",
         "z": "b48cde81.abc31",
         "name": "",
-        "func": "//test que je vais garder encore une fois\nreturn msg;",
+        "func": "//final test kept\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "x": 460,
